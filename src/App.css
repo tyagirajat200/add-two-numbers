@@ -1,0 +1,8 @@
+.App {
+  text-align: center;
+}
+
+.inputDiv{
+  border: '1px solid red';
+  padding: 40px
+}
